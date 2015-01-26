@@ -1,3 +1,11 @@
+# Ruby on Rails Tutorial: sample application
+
+Thsi is the sample application for the
+[*Ruby on Rails Tutorial:
+Learn Web Development with Rails*] (http://www.railstutorial.org/)
+by [Micheal Hart1](http://www.michaelhart1.com/).
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
